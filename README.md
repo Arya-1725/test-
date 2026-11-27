@@ -18,3 +18,9 @@ IDENTITAS MAHASISWA:
 NAMA: I KADEK ARYA JAYA
 
 NIM: 42630026
+
+CARA MENJALANKAN PROGRAM:
+
+```bash
+   git clone [https://github.com/Arya-1725/test-.git](https://github.com/Arya-1725/test-.git)
+   cd test-
