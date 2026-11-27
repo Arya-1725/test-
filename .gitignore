@@ -1,0 +1,8 @@
+# Mengabaikan file hasil kompilasi
+*.exe
+
+# Mengabaikan file log
+*.log
+
+# Mengabaikan file environment
+.env
